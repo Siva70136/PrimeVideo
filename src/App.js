@@ -26,7 +26,7 @@ const moviesList = [
   {
     id: '61227184c889cff17f05900b',
     thumbnailUrl: 'https://assets.ccbp.in/frontend/react-js/the-intern-img.png',
-    videoUrl: 'https://www.youtube.com/watch?v=ZU3Xban0Y6A',
+    videoUrl: 'https://youtu.be/X4iC_MZes8s',
     categoryId: 'COMEDY',
   },
   {

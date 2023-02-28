@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.slider-container {
+  display: flex;
+}
+
+.main-container {
+  background-color: black;
+  color: white;
+}
+.prime-img {
+  width: 100%;
+}
+.prime-container {
+  padding: 50px;
+}

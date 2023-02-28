@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.movie-item {
+  margin: 5px;
+  padding: 8px;
+  background-color: black;
+}
+.trigger-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+@media screen and (max-width: 768px) {
+  .thumbnail {
+    width: 100px;
+    height: 100px;
+  }
+}
